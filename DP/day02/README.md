@@ -24,7 +24,7 @@ Given the size of your knapsack, an array of item sizes `S`, and an array repres
 
 ## New Problems
 
-**Note: One of the following problems can be solved more efficiently without dynammic programming. Don't feel forced to use DP if you think you have a better solution.**
+**Note: One or more of the following problems can be solved more efficiently without dynammic programming. Don't feel forced to use DP if you think you have a better solution.**
 
 ### Unique BSTs (not too bad)
 
