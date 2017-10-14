@@ -28,7 +28,7 @@ install it with:
 
 To install the JDK:
 
-`sudo apt-get intall default-jdk`
+`sudo apt-get install default-jdk`
 
 ### Installing IntelliJ
 
